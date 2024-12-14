@@ -1,4 +1,4 @@
-# Pranshu Gaur - BestEx Research Trading Assignment
+# Pranshu Gaur - BestEx Research Trading Engineer Assignment
 
 ## Overview
 
